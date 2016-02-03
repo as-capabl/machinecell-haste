@@ -6,6 +6,6 @@ cabal-dev
 *.chs.h
 .virthualenv
 
-packages
+packages*
 
 *.jsmod
